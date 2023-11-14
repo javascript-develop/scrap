@@ -1,0 +1,10 @@
+{
+  "projects": {
+    "default": "golf-b0226",
+    "firebase login": "golf-b0226",
+    "build": "golf-b0226",
+    "y": "my-web-48f68"
+  },
+  "targets": {},
+  "etags": {}
+}
